@@ -1,6 +1,3 @@
-# hello-world
-hello
+### DESCRIPTION
 
-
-8********
-This is a test update for pr....
+THIS IS THE SAMPLE COMMENT FOR THE PR WITH DESCRIPTION
